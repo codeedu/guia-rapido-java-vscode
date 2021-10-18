@@ -123,5 +123,6 @@ Na seção de extensões, procure e instale as seguintes extensões:
 - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
 - [Gradle Language Support](https://marketplace.visualstudio.com/items?itemName=naco-siren.gradle-language)
 - [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
+- [Java Code Generators](https://marketplace.visualstudio.com/items?itemName=sohibe.java-generate-setters-getters) * foi separado do Java Extension Pack
 
 Após o processo de instalação de todas as extensões acima, faça o restart do VSCode e a partir de agora estamos prontos para começar a trabalhar com Java utilizando VSCode. Basta abrir seu projeto Java no VSCode e começar a trabalhar!
